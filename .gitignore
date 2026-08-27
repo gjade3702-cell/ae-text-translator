@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+
+# 本地参考/草稿
+图片参考/
+
+# 源码与测试仅在本地开发保留，不随 jsxbin 发布
+AE-Text-Translator.jsx
+test/
